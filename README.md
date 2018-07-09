@@ -1,6 +1,4 @@
-# ML_CNN
-- This Jupyter Notebook has been realized during the course IFT6135 at the Université de Montréal
-- We compared different techniques in a convolutional neural network
- - Different optimizers such as SGD, RMSprop ...
- - Different regularizers such as L2 and Dropout
-- We made an analysis of our final model studying features maps
+# Machine Learning Projecrs
+- These Jupyter Notebooks have been realized during my master degree with my teamate Pierre He
+- We explored and implemented multiple ML algorithms such as CNN, Neural Turing Machine or GAN 
+- We mainly used Keras and Tensorflow
